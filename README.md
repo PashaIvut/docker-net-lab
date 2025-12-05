@@ -8,7 +8,7 @@
 <img width="710" height="121" alt="image" src="https://github.com/user-attachments/assets/b4395d3b-0863-4555-a931-eb5a5912428f" />
 
 #### 1.2. Информация о сети bridge по умолчанию
-С помощью команды **docker network inspect bridge** определить подсеть (диапазон адресов) и адрес шлюза сети **bridge**.
+С помощью команды **docker network inspect bridge** определим подсеть (диапазон адресов) и адрес шлюза сети **bridge**.
 <img width="988" height="419" alt="image" src="https://github.com/user-attachments/assets/7fed09ff-f458-4393-bdf6-350fcad58eca" />
 
 **Bridge** - внутренняя сеть Docker по умолчанию. Контейнеры получают внутренние IP-адреса и могут общаться друг с другом по IP или по имени контейнера. Для доступа извне требуется проброс портов. Обеспечивает сетевую изоляцию контейнеров от хоста и внешней сети.
