@@ -39,7 +39,7 @@
 Создадим пользовательскую мостовую сеть с помощью **docker network create --driver bridge my-app-net**.
 <img width="782" height="57" alt="image" src="https://github.com/user-attachments/assets/a87f79e6-9ac4-4235-b9d5-1bb77e905129" />
 
-Проверка:
+Проверка.                                                                                                                   
 <img width="707" height="149" alt="image" src="https://github.com/user-attachments/assets/321e869c-fa0e-4f7c-99b9-9f9e439dbd4d" />
 <img width="982" height="606" alt="image" src="https://github.com/user-attachments/assets/0cf324b3-c251-4c32-bd07-9529f8af4701" />
 
